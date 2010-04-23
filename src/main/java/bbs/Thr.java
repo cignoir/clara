@@ -6,15 +6,6 @@ import java.util.regex.Pattern;
 import enums.ThreadDiv;
 
 public class Thr {
-//	public static final int SALON = 200;
-//	public static final int VERY_EASY = 100;
-//	public static final int EASY = 101;
-//	public static final int NORMAL = 102;
-//	public static final int EXTRA = 103;
-//	public static final int HARD = 104;
-//	public static final int LUNATIC = 105;
-//	public static final int PHANTASM = 106;
-
 	private String name;
 	private String url;
 	private ThreadDiv rank;
